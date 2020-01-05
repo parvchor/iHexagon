@@ -152,6 +152,7 @@ public class AutoDrive_LinearRedAlliance extends LinearOpMode {
                     rotate(90,0.7,10);//turn foundation
                     encoderDriveStrafeRight(1,6,11);//move foundation to wall
                     // Turn liner slides
+                    // Stop robot
 
 
 
